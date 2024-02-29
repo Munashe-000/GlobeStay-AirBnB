@@ -8,8 +8,8 @@ const Logo = () => {
         <Image 
         alt="Logo"
         className="hidden md:block cursor-pointer"
-        height="80"
-        width="120"
+        height="45"
+        width="70"
         src="/images/logo-transp.png"
         />
     );

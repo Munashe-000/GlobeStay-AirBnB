@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "GlobeStay AirBnB",
-  description: "Your home away from home",
+  description: "Find home away from home",
 };
 
 const font = Nunito({
